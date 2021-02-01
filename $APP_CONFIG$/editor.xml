@@ -1,0 +1,16 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="SMART_BACKSPACE" value="2" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Ricty Diminished" />
+    <option name="LINE_SPACING" value="1.1" />
+  </component>
+  <component name="EditorSettings">
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+  </component>
+</application>
