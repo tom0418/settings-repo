@@ -903,6 +903,17 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/diffy-3.4.0/spec" />
       </excluded>
     </library>
+    <library name="docile (v1.3.5, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/docile-1.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/docile-1.3.5/lib" />
+      </SOURCES>
+    </library>
     <library name="erubi (v1.10.0, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1117,6 +1128,25 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/lib/ruby/2.7.0/json/add" />
       </excluded>
     </library>
+    <library name="json (v2.5.1, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/json-2.5.1/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/json-2.5.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/json-2.5.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/json-2.5.1/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/json-2.5.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/json-2.5.1/tests" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/json-2.5.1/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/json-2.5.1/tests" />
+      </excluded>
+    </library>
     <library name="listen (v3.4.1, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1329,6 +1359,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/msgpack/1.3.3" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/msgpack-1.3.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/msgpack-1.3.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/msgpack-1.3.3/spec" />
@@ -1336,6 +1367,7 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/msgpack-1.3.3/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/msgpack/1.3.3" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/msgpack-1.3.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/msgpack-1.3.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/msgpack-1.3.3/spec" />
@@ -2628,6 +2660,47 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/semantic_range-2.3.1/lib" />
       </SOURCES>
+    </library>
+    <library name="simplecov (v0.17.1, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-0.17.1/doc" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-0.17.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-0.17.1/doc" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-0.17.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-0.17.1/doc" />
+      </excluded>
+    </library>
+    <library name="simplecov-html (v0.10.2, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/test" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/views" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/assets" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/test" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/views" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/assets" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/public" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/test" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/views" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/assets" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/simplecov-html-0.10.2/public" />
+      </excluded>
     </library>
     <library name="singleton (v0.1.0, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
