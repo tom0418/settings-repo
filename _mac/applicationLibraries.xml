@@ -2661,6 +2661,22 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/semantic_range-2.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="shoulda-matchers (v4.5.1, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/shoulda-matchers-4.5.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/shoulda-matchers-4.5.1/docs" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/shoulda-matchers-4.5.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/shoulda-matchers-4.5.1/docs" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/-254223582/usr/local/bundle/gems/shoulda-matchers-4.5.1/docs" />
+      </excluded>
+    </library>
     <library name="simplecov (v0.17.1, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
