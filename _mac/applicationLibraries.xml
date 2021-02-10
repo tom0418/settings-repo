@@ -155,6 +155,28 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/activesupport-6.0.3.4/lib" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.7.0, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/addressable-2.7.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/addressable-2.7.0/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/addressable-2.7.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/addressable-2.7.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/addressable-2.7.0/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/addressable-2.7.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/addressable-2.7.0/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/addressable-2.7.0/tasks" />
+      </excluded>
+    </library>
     <library name="annotate (v3.1.1, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1064,6 +1086,71 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/jwt-2.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="launchy (v2.5.0, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/launchy-2.5.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/launchy-2.5.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/launchy-2.5.0/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/launchy-2.5.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/launchy-2.5.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/launchy-2.5.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/launchy-2.5.0/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/launchy-2.5.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/launchy-2.5.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/launchy-2.5.0/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/launchy-2.5.0/tasks" />
+      </excluded>
+    </library>
+    <library name="letter_opener (v1.7.0, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener-1.7.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener-1.7.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener-1.7.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener-1.7.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener-1.7.0/spec" />
+      </excluded>
+    </library>
+    <library name="letter_opener_web (v1.4.0, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/app" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/config" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/app" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/config" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/script" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/config" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/letter_opener_web-1.4.0/script" />
+      </excluded>
+    </library>
     <library name="listen (v3.4.1, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1278,6 +1365,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/msgpack/1.3.3" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/spec" />
@@ -1285,6 +1373,7 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/msgpack/1.3.3" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/spec" />
@@ -1717,6 +1806,31 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/lib/ruby/2.7.0/psych/nodes" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/lib/ruby/2.7.0/psych/handlers" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/lib/ruby/2.7.0/psych/visitors" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v4.0.6, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/data" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/test" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/data" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/test" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/data" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/test" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/public_suffix-4.0.6/.github" />
       </excluded>
     </library>
     <library name="puma (v5.1.1, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
