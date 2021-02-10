@@ -640,6 +640,22 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise-4.7.3/config" />
       </excluded>
     </library>
+    <library name="devise-jwt (v0.8.0, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise-jwt-0.8.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise-jwt-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise-jwt-0.8.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise-jwt-0.8.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise-jwt-0.8.0/bin" />
+      </excluded>
+    </library>
     <library name="did_you_mean (v1.4.0, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -736,6 +752,72 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/docile-1.3.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="dry-auto_inject (v0.7.0, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/.github" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/docsite" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/.github" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/docsite" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/.github" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/docsite" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-auto_inject-0.7.0/rakelib" />
+      </excluded>
+    </library>
+    <library name="dry-configurable (v0.12.0, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-configurable-0.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-configurable-0.12.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="dry-container (v0.7.2, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-container-0.7.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-container-0.7.2/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-container-0.7.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-container-0.7.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-container-0.7.2/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-container-0.7.2/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-container-0.7.2/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-container-0.7.2/rakelib" />
+      </excluded>
+    </library>
+    <library name="dry-core (v0.5.0, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-core-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/dry-core-0.5.0/lib" />
       </SOURCES>
     </library>
     <library name="erubi (v1.10.0, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
@@ -971,6 +1053,17 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/json-2.5.1/tests" />
       </excluded>
     </library>
+    <library name="jwt (v2.2.2, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/jwt-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/jwt-2.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="listen (v3.4.1, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1185,6 +1278,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/msgpack/1.3.3" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/spec" />
@@ -1192,6 +1286,7 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/msgpack/1.3.3" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/msgpack-1.3.3/spec" />
@@ -2757,6 +2852,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/warden-1.2.9/.github" />
+      </excluded>
+    </library>
+    <library name="warden-jwt_auth (v0.5.0, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/warden-jwt_auth-0.5.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/warden-jwt_auth-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/warden-jwt_auth-0.5.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/warden-jwt_auth-0.5.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/warden-jwt_auth-0.5.0/bin" />
       </excluded>
     </library>
     <library name="web-console (v4.1.0, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
