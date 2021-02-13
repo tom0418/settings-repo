@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Schemafile" type="AUTO_DETECTED" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="ci" type="YAML" />
     </extensionMap>
   </component>
