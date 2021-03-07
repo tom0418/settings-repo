@@ -662,6 +662,27 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise-4.7.3/config" />
       </excluded>
     </library>
+    <library name="devise_token_auth (v1.1.5, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise_token_auth-1.1.5/app" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise_token_auth-1.1.5/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise_token_auth-1.1.5/test" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise_token_auth-1.1.5/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise_token_auth-1.1.5/app" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise_token_auth-1.1.5/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise_token_auth-1.1.5/test" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise_token_auth-1.1.5/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise_token_auth-1.1.5/test" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/devise_token_auth-1.1.5/config" />
+      </excluded>
+    </library>
     <library name="did_you_mean (v1.4.0, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1058,17 +1079,6 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/json-2.5.1/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/json-2.5.1/tests" />
       </excluded>
-    </library>
-    <library name="jwt (v2.2.2, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/jwt-2.2.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.3/ruby_stubs/494265632/usr/local/bundle/gems/jwt-2.2.2/lib" />
-      </SOURCES>
     </library>
     <library name="launchy (v2.5.0, Remote: ruby-2.7.2-p137) [gem]" type="rubylib">
       <properties>
