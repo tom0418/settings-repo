@@ -310,6 +310,17 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/activesupport-6.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.4.2, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/ast-2.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/ast-2.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="benchmark (v0.1.0, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1270,6 +1281,33 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="parallel (v1.20.1, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/parallel-1.20.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/parallel-1.20.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v3.0.1.1, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/parser-3.0.1.1/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/parser-3.0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/parser-3.0.1.1/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/parser-3.0.1.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/parser-3.0.1.1/bin" />
+      </excluded>
+    </library>
     <library name="power_assert (v1.1.5, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1634,6 +1672,22 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/railties-6.0.4/exe" />
       </excluded>
     </library>
+    <library name="rainbow (v3.0.0, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rainbow-3.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rainbow-3.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rainbow-3.0.0/spec" />
+      </excluded>
+    </library>
     <library name="rake (v13.0.1, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1817,6 +1871,22 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/lib/ruby/2.7.0/rdoc/generator" />
       </excluded>
     </library>
+    <library name="regexp_parser (v2.1.1, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/regexp_parser-2.1.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/regexp_parser-2.1.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/regexp_parser-2.1.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/regexp_parser-2.1.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/regexp_parser-2.1.1/spec" />
+      </excluded>
+    </library>
     <library name="reline (v0.1.2, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1903,6 +1973,22 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/lib/ruby/2.7.0/rexml/validation" />
       </excluded>
     </library>
+    <library name="rexml (v3.2.5, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rexml-3.2.5/doc" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rexml-3.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rexml-3.2.5/doc" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rexml-3.2.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rexml-3.2.5/doc" />
+      </excluded>
+    </library>
     <library name="rss (v0.2.8, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1942,6 +2028,101 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/lib/ruby/2.7.0/rss/content" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/lib/ruby/2.7.0/rss/dublincore" />
       </excluded>
+    </library>
+    <library name="rubocop (v1.17.0, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-1.17.0/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-1.17.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-1.17.0/assets" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-1.17.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-1.17.0/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-1.17.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-1.17.0/assets" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-1.17.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-1.17.0/exe" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-1.17.0/assets" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-1.17.0/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-ast (v1.7.0, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-ast-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-ast-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop-performance (v1.11.3, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-performance-1.11.3/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-performance-1.11.3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-performance-1.11.3/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-performance-1.11.3/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-performance-1.11.3/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-rails (v2.11.1, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-rails-2.11.1/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-rails-2.11.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-rails-2.11.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-rails-2.11.1/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-rails-2.11.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-rails-2.11.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-rails-2.11.1/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-rails-2.11.1/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-rspec (v2.4.0, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-rspec-2.4.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-rspec-2.4.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-rspec-2.4.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-rspec-2.4.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/rubocop-rspec-2.4.0/config" />
+      </excluded>
+    </library>
+    <library name="ruby-progressbar (v1.11.0, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/ruby-progressbar-1.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/ruby-progressbar-1.11.0/lib" />
+      </SOURCES>
     </library>
     <library name="semantic_range (v3.0.0, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
       <properties>
@@ -2157,6 +2338,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/tzinfo-1.2.9/test" />
+      </excluded>
+    </library>
+    <library name="unicode-display_width (v2.0.0, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/unicode-display_width-2.0.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/unicode-display_width-2.0.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/unicode-display_width-2.0.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/unicode-display_width-2.0.0/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/unicode-display_width-2.0.0/data" />
       </excluded>
     </library>
     <library name="uri (v0.10.0, rbenv: 2.7.0) [gem]" type="rubylib">
