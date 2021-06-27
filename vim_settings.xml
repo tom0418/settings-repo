@@ -36,7 +36,7 @@
     <state version="7" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
-      <idea-put enabled="false" />
+      <idea-put enabled="true" />
     </notifications>
   </component>
 </application>
