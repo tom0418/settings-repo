@@ -337,6 +337,25 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/ast-2.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.16, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bcrypt-3.1.16/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bcrypt-3.1.16/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bcrypt-3.1.16/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bcrypt-3.1.16/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bcrypt-3.1.16/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bcrypt-3.1.16/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bcrypt-3.1.16/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bcrypt-3.1.16/spec" />
+      </excluded>
+    </library>
     <library name="benchmark (v0.1.0, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -719,6 +738,45 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="devise (v4.8.0, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise-4.8.0/app" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise-4.8.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise-4.8.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise-4.8.0/app" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise-4.8.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise-4.8.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise-4.8.0/config" />
+      </excluded>
+    </library>
+    <library name="devise_token_auth (v1.1.5, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise_token_auth-1.1.5/app" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise_token_auth-1.1.5/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise_token_auth-1.1.5/test" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise_token_auth-1.1.5/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise_token_auth-1.1.5/app" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise_token_auth-1.1.5/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise_token_auth-1.1.5/test" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise_token_auth-1.1.5/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise_token_auth-1.1.5/test" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/devise_token_auth-1.1.5/config" />
+      </excluded>
     </library>
     <library name="did_you_mean (v1.4.0, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
@@ -1425,6 +1483,25 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="orm_adapter (v0.5.0, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/orm_adapter-0.5.0/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/orm_adapter-0.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/orm_adapter-0.5.0/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/orm_adapter-0.5.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/orm_adapter-0.5.0/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/orm_adapter-0.5.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="ostruct (v0.2.0, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2095,6 +2172,17 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/lib/ruby/2.7.0/reline/key_actor" />
       </excluded>
     </library>
+    <library name="responders (v3.0.1, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/responders-3.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/responders-3.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rexml (v3.2.3, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2698,6 +2786,22 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="warden (v1.2.9, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/warden-1.2.9/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/warden-1.2.9/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/warden-1.2.9/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/warden-1.2.9/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/warden-1.2.9/.github" />
+      </excluded>
     </library>
     <library name="webpacker (v5.4.0, Remote: ruby-2.7.3-p183) [gem]" type="rubylib">
       <properties>
