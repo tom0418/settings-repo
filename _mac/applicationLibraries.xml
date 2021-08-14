@@ -342,6 +342,25 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="better_errors (v2.9.1, Remote: ruby-2.7.4-p191) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/better_errors-2.9.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/better_errors-2.9.1/.github" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/better_errors-2.9.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/better_errors-2.9.1/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/better_errors-2.9.1/.github" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/better_errors-2.9.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/better_errors-2.9.1/.github" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/better_errors-2.9.1/gemfiles" />
+      </excluded>
+    </library>
     <library name="bigdecimal (v2.0.0, rbenv: 2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -362,6 +381,22 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="binding_of_caller (v1.0.0, Remote: ruby-2.7.4-p191) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/binding_of_caller-1.0.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/binding_of_caller-1.0.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/binding_of_caller-1.0.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/binding_of_caller-1.0.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/binding_of_caller-1.0.0/.github" />
+      </excluded>
     </library>
     <library name="bootsnap (v1.7.7, Remote: ruby-2.7.4-p191) [gem]" type="rubylib">
       <properties>
@@ -623,6 +658,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/lib/ruby/2.7.0/csv/core_ext" />
+      </excluded>
+    </library>
+    <library name="debug_inspector (v1.1.0, Remote: ruby-2.7.4-p191) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/debug_inspector-1.1.0/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/debug_inspector-1.1.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/debug_inspector-1.1.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/debug_inspector-1.1.0/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/debug_inspector-1.1.0/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/debug_inspector-1.1.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/debug_inspector-1.1.0/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/debug_inspector-1.1.0/.github" />
       </excluded>
     </library>
     <library name="delegate (v0.1.0, rbenv: 2.7.0) [gem]" type="rubylib">
