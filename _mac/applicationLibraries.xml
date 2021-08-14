@@ -439,6 +439,31 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/builder-3.2.4/rakelib" />
       </excluded>
     </library>
+    <library name="bullet (v6.1.4, Remote: ruby-2.7.4-p191) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/perf" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/rails" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/perf" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/rails" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/perf" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/spec" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/rails" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/bullet-6.1.4/tasks" />
+      </excluded>
+    </library>
     <library name="bundler (v2.1.4, rbenv: 2.7.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2641,6 +2666,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/unicode-display_width-2.0.0/data" />
+      </excluded>
+    </library>
+    <library name="uniform_notifier (v1.14.2, Remote: ruby-2.7.4-p191) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/uniform_notifier-1.14.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/uniform_notifier-1.14.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/uniform_notifier-1.14.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/uniform_notifier-1.14.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2021.1/ruby_stubs/1040489054/usr/local/bundle/gems/uniform_notifier-1.14.2/spec" />
       </excluded>
     </library>
     <library name="uri (v0.10.0, rbenv: 2.7.0) [gem]" type="rubylib">
