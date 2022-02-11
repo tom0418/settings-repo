@@ -9,6 +9,6 @@
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
 </keymap>
