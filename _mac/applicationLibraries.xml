@@ -1499,7 +1499,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs30/msgpack/1.4.4" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/3.0.2/lib/ruby/gems/3.0.0/gems/msgpack-1.4.4/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/3.0.2/lib/ruby/gems/3.0.0/gems/msgpack-1.4.4/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/3.0.2/lib/ruby/gems/3.0.0/gems/msgpack-1.4.4/spec" />
@@ -1508,7 +1507,6 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/3.0.2/lib/ruby/gems/3.0.0/gems/msgpack-1.4.4/.github" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs30/msgpack/1.4.4" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/3.0.2/lib/ruby/gems/3.0.0/gems/msgpack-1.4.4/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/3.0.2/lib/ruby/gems/3.0.0/gems/msgpack-1.4.4/lib" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/3.0.2/lib/ruby/gems/3.0.0/gems/msgpack-1.4.4/spec" />
