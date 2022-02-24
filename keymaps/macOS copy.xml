@@ -11,4 +11,6 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Terminal.NextSplitter" />
+  <action id="Terminal.PrevSplitter" />
 </keymap>
