@@ -1,0 +1,23 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectRootManager" version="2" project-jdk-name="Remote: ruby-2.6.5-p114" project-jdk-type="RUBY_SDK" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+      </component>
+      <component name="RemoteMappingsManager">
+        <list>
+          <list>
+            <remote-mappings server-id="ruby@docker-compose://[/Users/tom0418/sampleApp/docker-compose.yml]:web//usr/local/bin/ruby">
+              <settings>
+                <list>
+                  <mapping local-root="$USER_HOME$/sampleApp/containers/web/src" remote-root="/sample_rails_app" />
+                </list>
+              </settings>
+            </remote-mappings>
+          </list>
+        </list>
+      </component>
+    </defaultProject>
+  </component>
+</application>

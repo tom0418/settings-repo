@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="Schemafile" type="AUTO_DETECTED" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="schema" type="PLAIN_TEXT" />
+      <mapping ext="pu" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="ci" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
